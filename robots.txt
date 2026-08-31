@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tsunami-07.github.io/sitemap.xml

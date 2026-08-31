@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "去问夜雨吧",
+    "description": "",
+    "home_page_url": "https://tsunami-07.github.io",
+    "feed_url": "https://tsunami-07.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "NIGHTINGALE22"
+    },
+    "items": [
+        {
+            "id": "https://tsunami-07.github.io/zai-chang-shi-ban-tian-bu-zhi-dao-gan-shi-me-hou-huan-shi-yong-hui-liao-publii.html",
+            "url": "https://tsunami-07.github.io/zai-chang-shi-ban-tian-bu-zhi-dao-gan-shi-me-hou-huan-shi-yong-hui-liao-publii.html",
+            "title": "在尝试半天不知道干什么后还是用回了publii...",
+            "summary": "起码publii还算能用，对吧... 当然了...如果有更好的我会迁移，如果我有时间折腾的话 你们的霸王龙要与世长辞了（其实只是因为开学... 总之这次拿来写东西应该是足够用了，如果我真的想写的话 日后会干的事...我单独建个待办事项清单说吧唉（ 然后就没有然后了，see u（",
+            "content_html": "<p>起码publii还算能用，对吧...</p>\n<p>当然了...如果有更好的我会迁移，如果我有时间折腾的话</p>\n<p>你们的霸王龙要与世长辞了（其实只是因为开学...</p>\n<p>总之这次拿来写东西应该是足够用了，如果我真的想写的话</p>\n<hr>\n<p>日后会干的事...我单独建个待办事项清单说吧唉（</p>\n<p>然后就没有然后了，see u（</p>",
+            "author": {
+                "name": "NIGHTINGALE22"
+            },
+            "tags": [
+                   "碎碎念",
+                   "于是就这样开始了，平平无奇的废话人生"
+            ],
+            "date_published": "2026-08-31T20:07:33+08:00",
+            "date_modified": "2026-08-31T20:16:37+08:00"
+        },
+        {
+            "id": "https://tsunami-07.github.io/di-yi-pian.html",
+            "url": "https://tsunami-07.github.io/di-yi-pian.html",
+            "title": "第一篇",
+            "summary": "总之是终于有个落脚点了… 用其他的都怪麻烦的，我本身也不是个擅长组织语言的人，可能也不怎么更新这东西（笑 这次应该不会再开评论区了…原本想用gitbook不过这也太麻烦了，我很懒不想折腾。 总之这个博客就这样完事了，后续不知道干啥的时候会回来更新的（哈哈…",
+            "content_html": "<p>总之是终于有个落脚点了…<br>\n用其他的都怪麻烦的，我本身也不是个擅长组织语言的人，可能也不怎么更新这东西（笑<br>\n这次应该不会再开评论区了…原本想用gitbook不过这也太麻烦了，我很懒不想折腾。\n<br>总之这个博客就这样完事了，后续不知道干啥的时候会回来更新的（哈哈…</p>",
+            "author": {
+                "name": "NIGHTINGALE22"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-31T19:27:05+08:00",
+            "date_modified": "2026-08-31T19:27:05+08:00"
+        }
+    ]
+}
